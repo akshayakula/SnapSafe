@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SnapSafe.App/1.0.0": {
+        "dependencies": {
+          "SnapSafe.Core": "1.0.0"
+        },
+        "runtime": {
+          "SnapSafe.App.dll": {}
+        }
+      },
+      "SnapSafe.Core/1.0.0": {
+        "runtime": {
+          "SnapSafe.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnapSafe.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SnapSafe.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

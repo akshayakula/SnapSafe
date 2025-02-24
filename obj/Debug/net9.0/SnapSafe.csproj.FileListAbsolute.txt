@@ -1,0 +1,15 @@
+/Users/akshayakula/Developer/SnapSafe/bin/Debug/net9.0/SnapSafe
+/Users/akshayakula/Developer/SnapSafe/bin/Debug/net9.0/SnapSafe.deps.json
+/Users/akshayakula/Developer/SnapSafe/bin/Debug/net9.0/SnapSafe.runtimeconfig.json
+/Users/akshayakula/Developer/SnapSafe/bin/Debug/net9.0/SnapSafe.dll
+/Users/akshayakula/Developer/SnapSafe/bin/Debug/net9.0/SnapSafe.pdb
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/SnapSafe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/SnapSafe.AssemblyInfoInputs.cache
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/SnapSafe.AssemblyInfo.cs
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/SnapSafe.csproj.CoreCompileInputs.cache
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/SnapSafe.sourcelink.json
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/SnapSafe.dll
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/refint/SnapSafe.dll
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/SnapSafe.pdb
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/SnapSafe.genruntimeconfig.cache
+/Users/akshayakula/Developer/SnapSafe/obj/Debug/net9.0/ref/SnapSafe.dll

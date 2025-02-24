@@ -1,0 +1,12 @@
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/bin/Debug/net9.0/SnapSafe.Core.deps.json
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/bin/Debug/net9.0/SnapSafe.Core.dll
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/bin/Debug/net9.0/SnapSafe.Core.pdb
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/SnapSafe.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/SnapSafe.Core.AssemblyInfoInputs.cache
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/SnapSafe.Core.AssemblyInfo.cs
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/SnapSafe.Core.csproj.CoreCompileInputs.cache
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/SnapSafe.Core.sourcelink.json
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/SnapSafe.Core.dll
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/refint/SnapSafe.Core.dll
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/SnapSafe.Core.pdb
+/Users/akshayakula/Developer/SnapSafe/SnapSafe.Core/obj/Debug/net9.0/ref/SnapSafe.Core.dll
